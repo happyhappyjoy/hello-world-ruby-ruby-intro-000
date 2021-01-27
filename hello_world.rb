@@ -1,1 +1,1 @@
-ruby hello_world_rb
+put "Hello World!"
